@@ -1,0 +1,5 @@
+
+Allocates geographically diverse nodes to a PL slice using PLCAPI.
+
+To get started:
+ > plc_geo_nodes.py -h
